@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ido745. Im a student with 3 years expirience at game development.
+- 👀 I’m interested mainly in game development and other side projects.
+- 🌱 I’m currently working on a c++ implementation of a 2d graphic engine, following a tutorial and documents online.
+- 💞️ I currently am not looking for collaborations, but might will in the near future :)
+- 📫 You could reach me using my email address: dodomaimon@gmail.com.
