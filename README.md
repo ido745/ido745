@@ -23,9 +23,9 @@ My fields of interest and personal projects sit at the intersection of **Artific
 | **Tools** | Git, Docker, Express, Linux |
 
 ### 📈 Current Stats & Focus
-- 🌱 **Learning:** Operating Systems internals, preemptive scheduling, and advanced semaphores.
+- 🌱 **Learning:** Software engineering and web protocols, together with stochastic AI algorithms and search problems.
 - 🎯 **Goal:** To build software that is as mathematically elegant as it is performant.
-- ⚡ **Fun Fact:** I enjoy the challenge of Brackeys Game Jams, often building story-oriented experiences from scratch in under a week.
+- ⚡ **Fun Fact:** I enjoy the challenge of Game Jams, often building story-oriented experiences from scratch in under a week.
 
 ### 📫 Let's Connect
 * **Portfolio:** [ido745.github.io/portfolioWebsite-ido](https://ido745.github.io/portfolioWebsite-ido)
