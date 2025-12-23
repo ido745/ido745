@@ -28,5 +28,9 @@ My fields of interest and personal projects sit at the intersection of **Artific
 - ⚡ **Fun Fact:** I enjoy the challenge of Game Jams, often building story-oriented experiences from scratch in under a week.
 
 ### 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://ido745.github.io/portfolioWebsite-ido)
+[![Gmail](https://img.shields.io/badge/Gmail-Compose%20Mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dodomaimon@gmail.com)
+
+*Direct Links:*
 * **Portfolio:** [ido745.github.io/portfolioWebsite-ido](https://ido745.github.io/portfolioWebsite-ido)
 * **Email:** [dodomaimon@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dodomaimon@gmail.com)
